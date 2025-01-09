@@ -1,0 +1,84 @@
+Use:
+    - Delay: 0.1, CastSpellInstant: 3976 - Incantation of Armor Other
+    - Delay: 0.1, CastSpellInstant: 3977 - Coordination Other Incantation
+    - Delay: 0.1, CastSpellInstant: 3978 - Focus Other Incantation
+    - Delay: 0.1, CastSpellInstant: 3979 - Strength Other Incantation
+    - Delay: 0.1, CastSpellInstant: 3981 - Mana Renewal Other Incantation
+    - Delay: 0.1, CastSpellInstant: 3982 - Regeneration Other Incantation
+    - Delay: 0.1, CastSpellInstant: 3983 - Rejuvenation Other Incantation
+    - Delay: 0.1, CastSpellInstant: 4059 - Endurance Other Incantation
+    - Delay: 0.1, CastSpellInstant: 4060 - Quickness Other Incantation
+    - Delay: 0.1, CastSpellInstant: 4061 - Willpower Other Incantation
+    - Delay: 0.1, CastSpellInstant: 4231 - Leadership Mastery Other Incantation
+    - Delay: 0.1, CastSpellInstant: 4290 - Incantation of Armor Other
+    - Delay: 0.1, CastSpellInstant: 4296 - Incantation of Coordination Other
+    - Delay: 0.1, CastSpellInstant: 4298 - Incantation of Endurance Other
+    - Delay: 0.1, CastSpellInstant: 4304 - Incantation of Focus Other
+    - Delay: 0.1, CastSpellInstant: 4310 - Incantation of Heal Other
+    - Delay: 0.1, CastSpellInstant: 4314 - Incantation of Mana Boost Other
+    - Delay: 0.1, CastSpellInstant: 4318 - Incantation of Quickness Other
+    - Delay: 0.1, CastSpellInstant: 4320 - Incantation of Revitalize Other
+    - Delay: 0.1, CastSpellInstant: 4324 - Incantation of Strength Other
+    - Delay: 0.1, CastSpellInstant: 4328 - Incantation of Willpower Other
+    - Delay: 0.1, CastSpellInstant: 4459 - Incantation of Acid Protection Other
+    - Delay: 0.1, CastSpellInstant: 4461 - Incantation of Blade Protection Other
+    - Delay: 0.1, CastSpellInstant: 4463 - Incantation of Bludgeoning Protection Other
+    - Delay: 0.1, CastSpellInstant: 4465 - Incantation of Cold Protection Other
+    - Delay: 0.1, CastSpellInstant: 4467 - Incantation of Fire Protection Other
+    - Delay: 0.1, CastSpellInstant: 4469 - Incantation of Lightning Protection Other
+    - Delay: 0.1, CastSpellInstant: 4471 - Incantation of Piercing Protection Other
+    - Delay: 0.1, CastSpellInstant: 4493 - Incantation of Mana Renewal Other
+    - Delay: 0.1, CastSpellInstant: 4495 - Incantation of Regeneration Other
+    - Delay: 0.1, CastSpellInstant: 4497 - Incantation of Rejuvenation Other
+    - Delay: 0.1, CastSpellInstant: 4505 - Incantation of Alchemy Mastery Other
+    - Delay: 0.1, CastSpellInstant: 4509 - Incantation of Arcane Enlightenment Other
+    - Delay: 0.1, CastSpellInstant: 4511 - Incantation of Armor Tinkering Expertise Other
+    - Delay: 0.1, CastSpellInstant: 4517 - Incantation of Light Weapon Mastery Other
+    - Delay: 0.1, CastSpellInstant: 4521 - Incantation of Missile Weapon Mastery Other
+    - Delay: 0.1, CastSpellInstant: 4525 - Incantation of Cooking Mastery Other
+    - Delay: 0.1, CastSpellInstant: 4529 - Incantation of Creature Enchantment Mastery Other
+    - Delay: 0.1, CastSpellInstant: 4533 - Incantation of Missile Weapon Mastery Other
+    - Delay: 0.1, CastSpellInstant: 4537 - Incantation of Finesse Weapon Mastery Other
+    - Delay: 0.1, CastSpellInstant: 4541 - Incantation of Deception Mastery Other
+    - Delay: 0.1, CastSpellInstant: 4547 - Incantation of Fealty Other
+    - Delay: 0.1, CastSpellInstant: 4551 - Incantation of Fletching Mastery Other
+    - Delay: 0.1, CastSpellInstant: 4555 - Incantation of Healing Mastery Other
+    - Delay: 0.1, CastSpellInstant: 4557 - Incantation of Impregnability Other
+	- Delay: 0.1, CastSpellInstant: 4559 - Incantation of Invulnerability
+    - Delay: 0.1, CastSpellInstant: 4563 - Incantation of Item Enchantment Mastery Other
+    - Delay: 0.1, CastSpellInstant: 4565 - Incantation of Item Tinkering Expertise Other
+    - Delay: 0.1, CastSpellInstant: 4571 - Incantation of Jumping Mastery Other
+    - Delay: 0.1, CastSpellInstant: 4577 - Incantation of Leadership Mastery Other
+    - Delay: 0.1, CastSpellInstant: 4581 - Incantation of Life Magic Mastery Other
+    - Delay: 0.1, CastSpellInstant: 4585 - Incantation of Lockpick Mastery Other
+    - Delay: 0.1, CastSpellInstant: 4589 - Incantation of Light Weapon Mastery Other
+    - Delay: 0.1, CastSpellInstant: 4591 - Incantation of Magic Item Tinkering Expertise Other
+    - Delay: 0.1, CastSpellInstant: 4595 - Incantation of Magic Resistance Other
+    - Delay: 0.1, CastSpellInstant: 4601 - Incantation of Mana Conversion Mastery Other
+    - Delay: 0.1, CastSpellInstant: 4603 - Incantation of Monster Attunement Other
+    - Delay: 0.1, CastSpellInstant: 4607 - Incantation of Person Attunement Other
+    - Delay: 0.1, CastSpellInstant: 4613 - Incantation of Light Weapon Mastery Other
+    - Delay: 0.1, CastSpellInstant: 4615 - Incantation of Sprint Other
+    - Delay: 0.1, CastSpellInstant: 4619 - Incantation of Light Weapon Mastery Other
+    - Delay: 0.1, CastSpellInstant: 4623 - Incantation of Heavy Weapon Mastery Other
+    - Delay: 0.1, CastSpellInstant: 4627 - Incantation of Missile Weapon Mastery Other
+    - Delay: 0.1, CastSpellInstant: 4630 - Incantation of Light Weapon Mastery Other
+    - Delay: 0.1, CastSpellInstant: 4637 - Incantation of War Magic Mastery Other
+    - Delay: 0.1, CastSpellInstant: 4639 - Incantation of Weapon Tinkering Expertise Other
+    - Delay: 0.1, CastSpellInstant: 5060 - Incantation of Item Tinkering Expertise Other
+    - Delay: 0.1, CastSpellInstant: 5098 - Incantation of Two Handed Combat Mastery Other
+    - Delay: 0.1, CastSpellInstant: 5410 - Incantation of Void Magic Mastery Other
+    - Delay: 0.1, CastSpellInstant: 5778 - Incantation of Dirty Fighting Mastery Other
+    - Delay: 0.1, CastSpellInstant: 5802 - Incantation of Dual Wield Mastery Other
+    - Delay: 0.1, CastSpellInstant: 5826 - Incantation of Recklessness Mastery Other
+    - Delay: 0.1, CastSpellInstant: 5850 - Incantation of Shield Mastery Other
+    - Delay: 0.1, CastSpellInstant: 5874 - Incantation of Sneak Attack Mastery Other
+    - Delay: 0.1, CastSpellInstant: 5989 - Aura of Incantation of Hermetic Link Other
+    - Delay: 0.1, CastSpellInstant: 5997 - Aura of Incantation of Blood Drinker Other
+    - Delay: 0.1, CastSpellInstant: 5998 - Aura of Incantation of Blood Drinker Other
+    - Delay: 0.1, CastSpellInstant: 6006 - Aura of Incantation of Defender Other
+    - Delay: 0.1, CastSpellInstant: 6014 - Aura of Incantation of Heart Seeker Other
+    - Delay: 0.1, CastSpellInstant: 6022 - Aura of Incantation of Spirit Drinker Other
+    - Delay: 0.1, CastSpellInstant: 6023 - Aura of Incantation of Spirit Drinker Other
+    - Delay: 0.1, CastSpellInstant: 6031 - Aura of Incantation of Swift Killer Other
+    - Delay: 0.1, CastSpellInstant: 6115 - Incantation of Summoning Mastery Other
