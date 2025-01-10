@@ -1,7 +1,7 @@
 DELETE FROM `weenie` WHERE `class_Id` = 5036519;
 
 INSERT INTO `weenie` (`class_Id`, `class_Name`, `type`, `last_Modified`)
-VALUES (5036519, 'ace5036519-fredsanford', 12, '2025-01-09 08:21:33') /* Vendor */;
+VALUES (5036519, 'ace5036519-fredsanford', 12, '2025-01-10 06:40:36') /* Vendor */;
 
 INSERT INTO `weenie_properties_int` (`object_Id`, `type`, `value`)
 VALUES (5036519,   1,         16) /* ItemType - Creature */
@@ -88,16 +88,16 @@ VALUES (5036519, 4, 36565, -1, 0,    0, False) /* Create Sealed Bag of Salvaged 
      , (5036519, 4, 36563, -1, 0,    0, False) /* Create Sealed Bag of Salvaged Brass (36563) for Shop */
      , (5036519, 4, 36566, -1, 0,    0, False) /* Create Sealed Bag of Salvaged Iron (36566) for Shop */
      , (5036519, 4, 36568, -1, 0,    0, False) /* Create Sealed Bag of Salvaged Steel (36568) for Shop */
-     , (5036519, 4, 36619, -1, 0,    0, False) /* Create Foolproof (36619) for Shop */
-     , (5036519, 4, 36620, -1, 0,    0, False) /* Create Foolproof (36620) for Shop */
-     , (5036519, 4, 36621, -1, 0,    0, False) /* Create Foolproof (36621) for Shop */
-     , (5036519, 4, 36622, -1, 0,    0, False) /* Create Foolproof (36622) for Shop */
-     , (5036519, 4, 36623, -1, 0,    0, False) /* Create Foolproof (36623) for Shop */
-     , (5036519, 4, 36624, -1, 0,    0, False) /* Create Foolproof (36624) for Shop */
-     , (5036519, 4, 36625, -1, 0,    0, False) /* Create Foolproof (36625) for Shop */
-     , (5036519, 4, 36626, -1, 0,    0, False) /* Create Foolproof (36626) for Shop */
-     , (5036519, 4, 36627, -1, 0,    0, False) /* Create Foolproof (36627) for Shop */
-     , (5036519, 4, 36628, -1, 0,    0, False) /* Create Foolproof (36628) for Shop */
+     , (5036519, 4, 36619, -1, 0,    0, False) /* Create Foolproof Aquamarine (36619) for Shop */
+     , (5036519, 4, 36620, -1, 0,    0, False) /* Create  Foolproof Black Garnet (36620) for Shop */
+     , (5036519, 4, 36621, -1, 0,    0, False) /* Create  Foolproof Black Opal (36621) for Shop */
+     , (5036519, 4, 36622, -1, 0,    0, False) /* Create  Foolproof Emerald (36622) for Shop */
+     , (5036519, 4, 36623, -1, 0,    0, False) /* Create  Foolproof Fire Opal (36623) for Shop */
+     , (5036519, 4, 36624, -1, 0,    0, False) /* Create  Foolproof Imperial Topaz (36624) for Shop */
+     , (5036519, 4, 36625, -1, 0,    0, False) /* Create  Foolproof Jet (36625) for Shop */
+     , (5036519, 4, 36626, -1, 0,    0, False) /* Create  Foolproof Red Garnet (36626) for Shop */
+     , (5036519, 4, 36627, -1, 0,    0, False) /* Create  Foolproof Sunstone (36627) for Shop */
+     , (5036519, 4, 36628, -1, 0,    0, False) /* Create  Foolproof White Sapphire (36628) for Shop */
      , (5036519, 4, 36618, -1, 0,    0, False) /* Create  (36618) for Shop */
      , (5036519, 4, 41875, -1, 0,    0, False) /* Create Sealed Bag of Salvaged Sapphire (41875) for Shop */
      , (5036519, 4, 41860, -1, 0,    0, False) /* Create Sealed Bag of Salvaged Amber (41860) for Shop */
