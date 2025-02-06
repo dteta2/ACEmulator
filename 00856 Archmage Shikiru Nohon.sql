@@ -1,7 +1,7 @@
 DELETE FROM `weenie` WHERE `class_Id` = 856;
 
 INSERT INTO `weenie` (`class_Id`, `class_Name`, `type`, `last_Modified`)
-VALUES (856, 'hebianarchmage', 12, '2025-01-04 02:50:47') /* Vendor */;
+VALUES (856, 'hebianarchmage', 12, '2025-02-04 12:06:19') /* Vendor */;
 
 INSERT INTO `weenie_properties_int` (`object_Id`, `type`, `value`)
 VALUES (856,   1,         16) /* ItemType - Creature */
@@ -373,6 +373,5 @@ VALUES (856, 2,   124,  0,14,  0.8, False) /* Create Jerkin (124) for Wield */
      , (856, 4,  8183, -1, 0,    0, False) /* Create Devour All Magic Other (8183) for Shop */
      , (856, 4,  8184, -1, 0,    0, False) /* Create Purge All Magic Other (8184) for Shop */
      , (856, 4,  8185, -1, 0,    0, False) /* Create Nullify All Magic Other (8185) for Shop */
-     , (856, 4, 20963, -1, 0,    0, False) /* Create Prismatic Pea (20963) for Shop */
-     , (856, 4,7000136, -1,21,    0, False) /* Create MulePack (7000136) for Shop */;
+     , (856, 4, 20963, -1, 0,    0, False) /* Create Prismatic Pea (20963) for Shop */;
 

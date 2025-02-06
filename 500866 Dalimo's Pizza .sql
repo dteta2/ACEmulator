@@ -1,7 +1,7 @@
 DELETE FROM `weenie` WHERE `class_Id` = 500866;
 
 INSERT INTO `weenie` (`class_Id`, `class_Name`, `type`, `last_Modified`)
-VALUES (500866, 'ace500866-dalimospizza', 12, '2025-01-09 08:39:07') /* Vendor */;
+VALUES (500866, 'ace500866-dalimospizza', 12, '2025-01-14 11:08:01') /* Vendor */;
 
 INSERT INTO `weenie_properties_int` (`object_Id`, `type`, `value`)
 VALUES (500866,   1,         16) /* ItemType - Creature */
@@ -16,12 +16,11 @@ VALUES (500866,   1,         16) /* ItemType - Creature */
      , (500866,  75,          0) /* MerchandiseMinValue */
      , (500866,  76,     100000) /* MerchandiseMaxValue */
      , (500866,  93,    2098200) /* PhysicsState - ReportCollisions, IgnoreCollisions, Gravity, ReportCollisionsAsEnvironment */
-     , (500866, 113,          2) /* Gender */
      , (500866, 126,        500) /* VendorHappyMean */
      , (500866, 127,        500) /* VendorHappyVariance */
      , (500866, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (500866, 134,         16) /* PlayerKillerStatus - RubberGlue */
-     , (500866, 146,         61) /* XpOverride */;
+     , (500866, 146,         68) /* XpOverride */;
 
 INSERT INTO `weenie_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (500866,   1, True ) /* Stuck */
@@ -71,9 +70,9 @@ VALUES (500866,   1, 'Dalimo''s Pizza ') /* Name */
      , (500866,  24, 'Hebian-to') /* TownName */;
 
 INSERT INTO `weenie_properties_d_i_d` (`object_Id`, `type`, `value`)
-VALUES (500866,   1, 0x02000001) /* Setup */
+VALUES (500866,   1, 0x0200004E) /* Setup */
      , (500866,   2, 0x09000001) /* MotionTable */
-     , (500866,   3, 0x20000001) /* SoundTable */
+     , (500866,   3, 0x20000002) /* SoundTable */
      , (500866,   4, 0x30000000) /* CombatTable */
      , (500866,   8, 0x06001036) /* Icon */;
 
@@ -204,5 +203,16 @@ VALUES (500866, 2,   124,  0,14,  0.8, False) /* Create Jerkin (124) for Wield *
      , (500866, 4, 29104, -1, 0,    0, False) /* Create Amber Ape (29104) for Shop */
      , (500866, 4, 29106, -1, 0,    0, False) /* Create Bobo's Stout (29106) for Shop */
      , (500866, 4, 29109, -1, 0,    0, False) /* Create Tusker Spit Ale (29109) for Shop */
-     , (500866, 4, 32271, -1, 0,    0, False) /* Create Duke Raoul's Distillation (32271) for Shop */;
+     , (500866, 4, 32271, -1, 0,    0, False) /* Create Duke Raoul's Distillation (32271) for Shop */
+     , (500866, 4, 31001, -1, 0,    0, False) /* Create Asheron's Benediction (31001) for Shop */
+     , (500866, 4,  8043, -1, 0,    0, False) /* Create Veralim Dye Pot (8043) for Shop */
+     , (500866, 4,  8044, -1, 0,    0, False) /* Create Hennacin Dye Pot (8044) for Shop */
+     , (500866, 4,  8045, -1, 0,    0, False) /* Create Berimphur Dye Pot (8045) for Shop */
+     , (500866, 4,  8650, -1, 0,    0, False) /* Create Lapyanr Dye Pot (8650) for Shop */
+     , (500866, 4,  8651, -1, 0,    0, False) /* Create Minalom Dye Pot (8651) for Shop */
+     , (500866, 4,  8652, -1, 0,    0, False) /* Create Argenory Dye Pot (8652) for Shop */
+     , (500866, 4, 11475, -1, 0,    0, False) /* Create Thananim Dye Pot (11475) for Shop */
+     , (500866, 4, 11476, -1, 0,    0, False) /* Create Colban Dye Pot (11476) for Shop */
+     , (500866, 4, 11477, -1, 0,    0, False) /* Create Relanim Dye Pot (11477) for Shop */
+     , (500866, 4,  5803, -1, 0,    0, False) /* Create Oregano (5803) for Shop */;
 

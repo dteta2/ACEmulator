@@ -1,18 +1,18 @@
 DELETE FROM `weenie` WHERE `class_Id` = 7000136;
 
 INSERT INTO `weenie` (`class_Id`, `class_Name`, `type`, `last_Modified`)
-VALUES (7000136, 'ace7000136-mulebackpack', 21, '2025-01-04 02:55:45') /* Container */;
+VALUES (7000136, 'ace7000136-mulebackpack', 21, '2025-02-04 12:58:03') /* Container */;
 
 INSERT INTO `weenie_properties_int` (`object_Id`, `type`, `value`)
 VALUES (7000136,   1,        512) /* ItemType - Container */
-     , (7000136,   3,         21) /* PaletteTemplate - Gold */
+     , (7000136,   3,         21) /* PaletteTemplate */
      , (7000136,   5,         15) /* EncumbranceVal */
      , (7000136,   6,        102) /* ItemsCapacity */
      , (7000136,   7,          0) /* ContainersCapacity */
      , (7000136,   8,        200) /* Mass */
      , (7000136,   9,          0) /* ValidLocations - None */
      , (7000136,  16,         56) /* ItemUseable - ContainedViewedRemote */
-     , (7000136,  19,     100000) /* Value */
+     , (7000136,  19,         10) /* Value */
      , (7000136,  93,       1044) /* PhysicsState - Ethereal, IgnoreCollisions, Gravity */
      , (7000136,  96,       2000) /* EncumbranceCapacity */;
 

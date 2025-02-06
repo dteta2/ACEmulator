@@ -1,7 +1,7 @@
 DELETE FROM `weenie` WHERE `class_Id` = 5036519;
 
 INSERT INTO `weenie` (`class_Id`, `class_Name`, `type`, `last_Modified`)
-VALUES (5036519, 'ace5036519-fredsanford', 12, '2025-01-10 06:40:36') /* Vendor */;
+VALUES (5036519, 'ace5036519-fredsanford', 12, '2025-02-04 01:06:12') /* Vendor */;
 
 INSERT INTO `weenie_properties_int` (`object_Id`, `type`, `value`)
 VALUES (5036519,   1,         16) /* ItemType - Creature */
@@ -105,5 +105,11 @@ VALUES (5036519, 4, 36565, -1, 0,    0, False) /* Create Sealed Bag of Salvaged 
      , (5036519, 4, 41866, -1, 0,    0, False) /* Create Sealed Bag of Salvaged Gromnie Hide (41866) for Shop */
      , (5036519, 4, 41869, -1, 0,    0, False) /* Create Sealed Bag of Salvaged Pyreal (41869) for Shop */
      , (5036519, 4, 41872, -1, 0,    0, False) /* Create Sealed Bag of Salvaged Ruby (41872) for Shop */
-     , (5036519, 2,  5893, -1, 0,    0, False) /* Create Hoary Mattaker Robe (5893) for Weild */;
+     , (5036519, 2,  5893, -1, 0,    0, False) /* Create Hoary Mattaker Robe (5893) for Weild */
+     , (5036519, 4,7000136, -1,21,    0, False) /* Create Sealed Mule Pack 21 Gold (7000136) for Shop */
+     , (5036519, 4,7000136, -1, 8,    0, False) /* Create Sealed Mule Pack 8 Green (7000136) for Shop */
+     , (5036519, 4,7000136, -1, 2,    0, False) /* Create Sealed Mule Pack 2 Blue (7000136) for Shop */
+     , (5036519, 4,7000136, -1,13,    0, False) /* Create Sealed Mule Pack 13 Purple (7000136) for Shop */
+     , (5036519, 4,7000136, -1,14,    0, False) /* Create Sealed Mule Pack 14 Red (7000136) for Shop */
+     , (5036519, 4,7000136, -1,17,    0, False) /* Create Sealed Mule Pack 17 Yellow (7000136) for Shop */;
 

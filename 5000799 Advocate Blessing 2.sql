@@ -1,7 +1,7 @@
 DELETE FROM `weenie` WHERE `class_Id` = 5000799;
 
 INSERT INTO `weenie` (`class_Id`, `class_Name`, `type`, `last_Modified`)
-VALUES (5000799, 'ace5000799-asheronsenvoyaug', 10, '2025-01-09 10:49:39') /* Creature */;
+VALUES (5000799, 'ace5000799-asheronsenvoyaug', 10, '2025-01-11 09:24:32') /* Creature */;
 
 INSERT INTO `weenie_properties_int` (`object_Id`, `type`, `value`)
 VALUES (5000799,   1,         16) /* ItemType - Creature */
@@ -18,7 +18,7 @@ VALUES (5000799,   1,         16) /* ItemType - Creature */
      , (5000799, 133,          4) /* ShowableOnRadar - ShowAlways */
      , (5000799, 134,         16) /* PlayerKillerStatus - RubberGlue */
      , (5000799, 146,     757504) /* XpOverride */
-     , (5000799, 238,    1800000) /* AugmentationIncreasedSpellDuration */;
+     , (5000799, 238,     324000) /* AugmentationIncreasedSpellDuration */;
 
 INSERT INTO `weenie_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (5000799,   1, True ) /* Stuck */

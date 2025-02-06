@@ -1,7 +1,7 @@
 DELETE FROM `weenie` WHERE `class_Id` = 5000867;
 
 INSERT INTO `weenie` (`class_Id`, `class_Name`, `type`, `last_Modified`)
-VALUES (5000867, 'ace5000867-doctorkavorkianthehealer', 12, '2025-01-10 07:32:03') /* Vendor */;
+VALUES (5000867, 'ace5000867-doctorkavorkianthehealer', 12, '2025-01-31 10:27:21') /* Vendor */;
 
 INSERT INTO `weenie_properties_int` (`object_Id`, `type`, `value`)
 VALUES (5000867,   1,         16) /* ItemType - Creature */
@@ -206,4 +206,7 @@ VALUES (5000867, 2,   124,  0,17,    1, False) /* Create Jerkin (124) for Wield 
      , (5000867, 4,  2622, -1, 0,    0, False) /* Create Trade Note (500) (2622) for Shop */
      , (5000867, 4,   631, -1, 0,    0, False) /* Create Excellent Healing Kit (631) for Shop */
      , (5000867, 4,   632, -1, 0,    0, False) /* Create Peerless Healing Kit (632) for Shop */
-     , (5000867, 4,  9229, -1, 0,    0, False) /* Create Treated Healing Kit (9229) for Shop */;
+     , (5000867, 4,  9229, -1, 0,    0, False) /* Create Treated Healing Kit (9229) for Shop */
+     , (5000867, 4, 44711, -1, 0,    0, False) /* Create Lesser Stamina Kit (44711) for Shop */
+     , (5000867, 4, 44714, -1, 0,    0, False) /* Create Greater Stamina Kit (44714) for Shop */;
+
